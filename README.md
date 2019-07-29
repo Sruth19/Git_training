@@ -5,5 +5,5 @@
 
 1. Master Branch : No direct chnage is allowed
 
-2. Dev Branch
+2. Dev Branch:no need
 
